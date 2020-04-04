@@ -1,0 +1,8 @@
+# Area of Square = side * side
+
+
+
+side =int(input("enter side "))
+
+res=side*side
+print(res)
